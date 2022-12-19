@@ -19,5 +19,3 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <br>
 
 </div>
-
-Apaixonado pelo mundo da tecnologia, decidi não atuar mais como engenheiro civil e migrei para o 🌎 dos desenvolvedores! 

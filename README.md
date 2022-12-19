@@ -6,6 +6,8 @@
 
 ![Cassiano Baptista GitHub stats](https://github-readme-stats.vercel.app/api?username=cassianobaptista&show_icons=true&theme=dracula)
 
+Apaixonado pelo mundo da tecnologia, decidi não atuar mais como engenheiro civil e migrei para o 🌎 dos desenvolvedores! 
+
 ### Tecnologias que utilizo: 
 
 <div style="display: inline__block">

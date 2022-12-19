@@ -5,6 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassiano-t-baptista-331682100/) 
 
 ![Cassiano Baptista GitHub stats](https://github-readme-stats.vercel.app/api?username=cassianobaptista&show_icons=true&theme=dracula)
+                                 (https://github-readme-stats.vercel.app/api?username=cassianobaptista)](https://github.com/cassianobaptista/github-readme-stats)
 
 ### Tecnologias que utilizo: 
 

@@ -1,23 +1,31 @@
-### Hi there 👋
+<img align="right" height="590en"
+src="https://raw.githubusercontent.com/gist/cassianobaptista/52296358c24dc6bc56d04e8822fe196d/raw/4363ac3658039d20b6829b70a81b232e650bee90/githubcard1.svg"/>
+<h1 align="left">Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Cassiano Baptista </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cassianobaptista&color=yellow" alt="profile views" /> </p>
 
-## Olá! Eu sou o Cassiano Baptista 👋
+- Front-end Developer 
+- Atualmente estou cursando pós-graduação em engenharia de software
+- Participo do bootcamp da Gama Academy para Desenvolvedores Web
+- Pergunte-me sobre **JavaScript, HTML, CSS, Git**
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassiano-t-baptista-331682100/) 
+<br>
 
-![Cassiano Baptista GitHub stats](https://github-readme-stats.vercel.app/api?username=cassianobaptista&show_icons=true&theme=dracula)
+## Tech Stack 
 
-Apaixonado pelo mundo da tecnologia, decidi não atuar mais como engenheiro civil e migrei para o 🌎 dos desenvolvedores! 
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1577B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### Tecnologias que utilizo: 
+<br>
 
-<div style="display: inline__block">
+## &nbsp;Github Analytics
 
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <br>
+<p align="left">
+<img width="530en" src="https://github-readme-stats.vercel.app/api?username=cassianobaptista&show_icons=true&theme=vision-friendly-dark" 
+alt="cassianobaptista stats"/>
 
-  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <br>
 
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <br>
-  
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <br>
 
-</div>

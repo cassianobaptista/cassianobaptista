@@ -1,12 +1,10 @@
-<img align="right" height="590en"
-src="https://raw.githubusercontent.com/gist/cassianobaptista/52296358c24dc6bc56d04e8822fe196d/raw/4363ac3658039d20b6829b70a81b232e650bee90/githubcard1.svg"/>
 <h1 align="left">Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Cassiano Baptista </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cassianobaptista&color=yellow" alt="profile views" /> </p>
 
-- Front-end Developer 
-- Atualmente estou cursando pós-graduação em engenharia de software
+- Full Stack Developer 
+- Atualmente estou cursando Análise e Desenvolvimento de Sistemas e pós-graduação em Engenharia de Software
 - Participo do bootcamp da Gama Academy para Desenvolvedores Web
-- Pergunte-me sobre **JavaScript, HTML, CSS, Git**
+- Pergunte-me sobre **JavaScript, Node, Typescript, MySQL, HTML, CSS e  Git**
 
 <br>
 

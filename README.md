@@ -1,4 +1,4 @@
-<h1 align="left">Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Cassiano Baptista </h1>
+<h1 align="left">Olá, eu sou o Cassiano Baptista </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cassianobaptista&color=yellow" alt="profile views" /> </p>
 
 - Full Stack Developer 

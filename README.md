@@ -1,7 +1,7 @@
 <h1 align="left">Olá, eu sou o Cassiano Baptista </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cassianobaptista&color=yellow" alt="profile views" /> </p>
 
-- Full Stack Developer 
+- Full Stack Developer em formação
 - Atualmente estou cursando Análise e Desenvolvimento de Sistemas e pós-graduação em Engenharia de Software
 - Participo do bootcamp da Gama Academy para Desenvolvedores Web
 - Pergunte-me sobre **JavaScript, Node, MySQL, HTML, CSS e  Git**

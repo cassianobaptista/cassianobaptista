@@ -3,7 +3,7 @@
 
 Engenheiro de formação, migrando para a área de TI cursando Análise e Desenvolvimento de Sistemas pela PUC (Pontifícia Universidade Católica), possuo conhecimento em: <br>
 Banco de Dados (MySQL e SQL Server); <br>
-Java/SpringBoot
+Java/SpringBoot; <br>
 Node.js/Express; <br>
 Metodologias Ágeis (Scrum).
 

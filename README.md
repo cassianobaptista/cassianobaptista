@@ -2,6 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cassianobaptista&color=yellow" alt="profile views" /> </p>
 
 Engenheiro de formação, cursando Análise e Desenvolvimento de Sistemas pela PUC (Pontifícia Universidade Católica), possuo conhecimento em: <br>
+<br>
 Java - JSP | JSF | HIBERNATE | Spring Boot  | Angular <br>
 Banco de Dados MySQL e PostgreSQL <br>
 

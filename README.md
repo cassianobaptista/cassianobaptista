@@ -3,13 +3,12 @@
 
 Engenheiro de formação, cursando Análise e Desenvolvimento de Sistemas pela PUC (Pontifícia Universidade Católica), possuo conhecimentos em: <br>
 
-Java (fundamentos do Java, programação orientada a objetos e desenvolvimento de APIs REST com Spring Boot); <br>
-Kotlin (fundamentos do Kotlin e programação orientada a objetos); <br>
-Banco de dados MySQL e PostgreSQL; <br>
-HTML5, CSS3 e Javascript; <br>
-Metodologias ágeis (Scrum). <br>
-
-<br>
+<ul>
+  <li>Java (POO, JDBC, JPA, Hibernate, JSP e Spring Boot)</li>
+  <li>Banco de dados MySQL e PostgreSQL</li>
+  <li>HTML5, CSS3, JavaScript</li>
+  <li>Metodologias ágeis (Scrum)</li>
+</ul>
 
 
 
